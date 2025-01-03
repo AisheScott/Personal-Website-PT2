@@ -1,7 +1,7 @@
 h1 {
     text-decoration: underline;
     font-weight: 500;
-    background-color: lightseagreen;
+    background-color: rgb(212, 219, 219);
     text-decoration-color: white;
     text-align: right;
 }
@@ -15,9 +15,8 @@ h3 {
 }
 
 div {
-    text-decoration: underline;
     font-weight: 500;
-    background-color: lightseagreen;
+    background-color: rgb(212, 219, 219);
     text-decoration-color: white;
     text-align: right;
 }
